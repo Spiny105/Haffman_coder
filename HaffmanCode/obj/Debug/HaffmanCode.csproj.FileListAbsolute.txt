@@ -1,0 +1,8 @@
+c:\users\николай\documents\visual studio 2012\Projects\HaffmanCode\HaffmanCode\bin\Debug\HaffmanCode.exe
+c:\users\николай\documents\visual studio 2012\Projects\HaffmanCode\HaffmanCode\bin\Debug\HaffmanCode.pdb
+c:\users\николай\documents\visual studio 2012\Projects\HaffmanCode\HaffmanCode\obj\Debug\HaffmanCode.csprojResolveAssemblyReference.cache
+c:\users\николай\documents\visual studio 2012\Projects\HaffmanCode\HaffmanCode\obj\Debug\HaffmanCode.csproj.GenerateResource.Cache
+c:\users\николай\documents\visual studio 2012\Projects\HaffmanCode\HaffmanCode\obj\Debug\HaffmanCode.exe
+c:\users\николай\documents\visual studio 2012\Projects\HaffmanCode\HaffmanCode\obj\Debug\HaffmanCode.pdb
+c:\users\николай\documents\visual studio 2012\Projects\HaffmanCode\HaffmanCode\obj\Debug\HaffmanCoder.mainForm.resources
+c:\users\николай\documents\visual studio 2012\Projects\HaffmanCode\HaffmanCode\obj\Debug\HaffmanCoder.Properties.Resources.resources
